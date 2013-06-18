@@ -1,6 +1,8 @@
 That One House
 ============
 
+News: http://thatonehouse.wordpress.com
+
 A repository for my house. Currently my house has no code and no need for flat files, but eventually that may change. In the meantime, I expect the issue tracker to useful.
 
 ## Contributions
